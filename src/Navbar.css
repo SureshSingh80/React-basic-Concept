@@ -1,0 +1,20 @@
+.nav-container ul
+{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.nav-container ul li 
+{
+    margin:1rem;
+    list-style-type: none;
+    background-color: rgb(11, 46, 220);
+    color:rgb(221, 221, 230);
+    padding:10px;
+    font-size:1.5rem;
+    
+}
+.nav-container ul Link{
+    text-decoration: none;
+}

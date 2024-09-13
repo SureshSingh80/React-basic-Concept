@@ -1,0 +1,7 @@
+.mob-container
+{
+    display: inline-block;
+    margin:1rem;
+    border:2px solid grey;
+    padding:2rem;
+}
